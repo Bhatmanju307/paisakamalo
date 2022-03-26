@@ -1,5 +1,5 @@
-# Droplink-bot
-Make short link by using [Droplink](https://droplinks.co/) API key
+# paisa kamalo
+Make short link by using paisakamalo API key
 ### Installation
 
 #### The Easy Way
