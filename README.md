@@ -4,7 +4,7 @@ Make short link by using paisakamalo API key
 
 #### The Easy Way
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Bhatmanju307/Droplink)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Bhatmanju307/paisakamalo)
 
 ##### Required Variables
 
