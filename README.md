@@ -14,4 +14,4 @@ Make short link by using paisakamalo API key
 * `API_HASH`: Get this value from [telgram.org](https://my.telegram.org/apps)
 * `API_KEY`: Create [Droplink](https://Droplinks.co/) account then get this value from [Droplink API](https://Droplinks.co/member/tools/api)
 * `CHANNEL`: Your Backup channel link
-* `HOWTO`: Your "How to Download from Droplink" video link
+* `HOWTO`: Your "How to Download from paisakamalo" video link
